@@ -1,3 +1,3 @@
 # Computer-Vision--GAN-Image-Colorization-on-Web-Browser
 
-This is urrently under work
+This is currently under work
